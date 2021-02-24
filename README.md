@@ -1,1 +1,1 @@
-# -al-smalar
+# denemeler ve çalısmalar
