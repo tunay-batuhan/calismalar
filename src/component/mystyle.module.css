@@ -1,0 +1,6 @@
+.container {
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    margin-top: 70px;
+  }
